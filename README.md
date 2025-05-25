@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <h3>🏥 Aplicación Móvil Oficial de la Clínica Robles</h3>
-  <p>Explora especialidades, conoce a los médicos y agenda citas desde tu teléfono</p>
+  <h3>🏥 Aplicación Móvil de la Clínica Robles</h3>
+  <p>Explora especialidades, conoce a los médicos y contáctalos desde tu teléfono</p>
   
   [Reportar Bug](https://github.com/tu-usuario/ClinicaRoblesApp/issues) • [Solicitar Función](https://github.com/tu-usuario/ClinicaRoblesApp/issues)
 </div>
@@ -58,6 +58,7 @@ Todo en una interfaz moderna, accesible y alineada con los principios de diseño
 
 <div align="center">
   <img src="https://i.imgur.com/cGELrHL.png" width="220"/>
+  <img src="https://i.imgur.com/6upfeAA.png" width="220"/>
   <img src="https://i.imgur.com/D9OrgHP.png" width="220"/>
   <img src="https://i.imgur.com/E43NdU9.png" width="220"/>
   <img src="https://i.imgur.com/AWoTrJr.png" width="220"/>

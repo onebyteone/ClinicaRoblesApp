@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clínica Robles</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">Olvidé mi contraseña</string>
+    <string name="enter">INGRESAR</string>
+    <string name="register">Registrarse</string>
+    <string name="specialties">Especialidades y Personal Médico</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="complaints_book">Libro de Reclamaciones</string>
+    <string name="news">Noticias</string>
+    <string name="see_schedule">VER HORARIO</string>
+    <string name="send_message">ENVIAR MENSAJE</string>
+    <string name="back">VOLVER</string>
+    <string name="schedule">Horario</string>
+    <string name="phone">Celular</string>
+</resources>
